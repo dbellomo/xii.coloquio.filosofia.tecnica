@@ -113,6 +113,6 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 
 # Vinculaciones con otras Universidades
 
-- Comechingones (Ali)
+- Univ. Nac. de los Comechingones (Ali)
 - UBA (Augusto)
 
