@@ -113,6 +113,14 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 
 
 
+# Gobernanza
+
+Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes comunes”, 8 principios que permiten a las comunidades gestionar de manera sostenible los bienes comunes
+
+[La Gobernanza de las Redes Comunitarias de Internet](https://landing.guifi.net/es/la-gobernanza-de-las-redes-comunitarias-de-internet/)
+
+
+
 # Vinculaciones con otras Universidades
 
 - Univ. Nac. de los Comechingones (Ali)
