@@ -110,6 +110,7 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 
 - la "pata" científica de la red
 - prácticas en el territorio
+- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente
 
 
 
@@ -127,4 +128,5 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - UBA (Augusto)
 - Instituto Balseiro (Laila)
 - Univ. Politécnica de Valencia (Pietro)
+- HOT Hub LAC
 
