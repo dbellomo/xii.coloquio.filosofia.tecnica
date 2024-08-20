@@ -76,6 +76,7 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 - UNRC
 - Coop electricidad de RDLS
 - Coop gestion.ar
+- Radioaficionados
 
 
 
