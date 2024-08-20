@@ -75,6 +75,7 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 - ACTUA
 - UNRC
 - Coop electricidad de RDLS
+- Coop gestion.ar
 
 
 
