@@ -126,4 +126,5 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - Univ. Nac. de los Comechingones (Ali)
 - UBA (Augusto)
 - Instituto Balseiro (Laila)
+- Univ. Politécnica de Valencia (Pietro)
 
