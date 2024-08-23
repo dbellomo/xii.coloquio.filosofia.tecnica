@@ -21,7 +21,7 @@ Visión holística
 - Oso Grosclaude - UNCOMA  
 - Carlos Frank - RETINA  
 - Nico Echániz - AlterMundi  
-- Ramon Roca - Guifi.net
+- Ramon Roca - Guifi-net
 
 
 
