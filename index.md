@@ -21,7 +21,7 @@ Visión holística
 - Oso Grosclaude - UNCOMA  
 - Carlos Frank - RETINA  
 - Nico Echániz - AlterMundi  
-- Ramon Roca - Guifi-net
+- Ramon Roca - guifi-net
 
 
 
@@ -203,8 +203,8 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - prácticas en el territorio
   - sociocomunitarias, profesionales, TP, tesis ...
   - computación, telecomunicaciones, energía solar, agronomía, meteorología, filosofía ...
-- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente
-- Cátedra Libre de Soberanía Tecnológica (CLiSTec)
+- Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente [(ICBIA)](https://icbia.conicet.gov.ar)
+- Cátedra Libre de Soberanía Tecnológica [(CLiSTec)](https://clistec.libre.org.ar)
   - en formación ...
 
 
@@ -233,7 +233,7 @@ Red de Alta Velocidad de Radioaficionados Argentinos para emergencias (RAVRAe)
 
 Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes comunes”, 8 principios que permiten a las comunidades gestionar de manera sostenible los bienes comunes
 
-[La Gobernanza de las Redes Comunitarias de Internet](https://landing.guifi.net/es/la-gobernanza-de-las-redes-comunitarias-de-internet/)
+[La Gobernanza de las Redes Comunitarias de Internet (guifi-net)](https://landing.guifi.net/es/la-gobernanza-de-las-redes-comunitarias-de-internet/)
 
 
 
