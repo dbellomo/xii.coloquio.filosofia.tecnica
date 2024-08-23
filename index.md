@@ -6,11 +6,11 @@
 
 # 
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Desintoxicar la utopía digital: la experiencia de la red comunitaria de internet rural en Las Lagunitas. El Proyecto.</span> by <span property="cc:attributionName">daniel bellomo</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Desintoxicar la utopía digital: la experiencia de la red comunitaria de internet rural en Las Lagunitas. El Proyecto.</span> by <span property="cc:attributionName">daniel bellomo</span> bajo licencia<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 
 
-# Red Comunitaria y Científica de Internet Rural
+# Las Lagunitas Red Comunitaria y Científica de Internet Rural
 
 Visión holística
 
@@ -52,6 +52,20 @@ https://t.ly/sbP8R
 
 # La Comunidad
 
+![](img/IMG_5400.jpeg)
+
+
+
+#
+
+![](img/IMG_5408.jpeg)
+
+
+
+# 
+
+![](img/IMG_5411.jpeg)
+
 
 
 # Vínculo con las flias
@@ -61,26 +75,99 @@ https://t.ly/sbP8R
 
 
 
+#
+
+![](img/IMG_5423.jpeg)
+
+
+
+#
+
+![](img/IMG_5424.jpeg)
+
+
+
 # Familias del paraje 
 
-Walter, Luciana, Gladys, Patricio, Ale, ...
+Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
+
+(videos)
+
+
+
+#
+
+![](img/hogar_1.jpeg)
+
+
+
+# 
+
+![](img/hogar_2.jpeg)
+
+
+
+#
+
+![](img/hogar_3.jpeg)
+
+
+
+#
+
+![](img/hogar_4.jpeg)
 
 
 
 # Otras instituciones del territorio
 
 - Escuela rural
-- CADEL
+- Asociación Civil Tierra Unida Activa (ACTUA)
+- Coop Electricidad, internet y tel Alpa Corral 
 - Bomberos Voluntarios
-- ACTUA
 - UNRC
 - Coop electricidad de RDLS
 - Coop gestion.ar
 - Radioaficionados
+- Municipalidad
 
 
 
 # Escuela rural
+
+![](img/esc.jpg)
+
+
+
+#
+
+![](img/taller_esc_rurales_1.jpg)
+
+
+
+# 
+
+![](img/taller_esc_rurales_2.jpg)
+
+
+
+#
+
+![](img/taller_esc_rurales_3.jpg)
+
+
+
+# ACTUA
+
+- Titular de la licencia ["Valor Agregado Red Comunitaria" VARC](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
+- Trabajo territorial
+- Coordinación del proyecto y gestión de recursos
+
+
+
+#
+
+![](img/ACTUA_asamblea.jpeg)
 
 
 
@@ -98,11 +185,15 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 
 
 
-# ACTUA
+# 
 
-- licencia VARC
-- trabajo territorial
-- coordinación del proyecto y gestión de recursos
+![](img/bomberos_1.jpg)
+
+
+
+#
+
+![](img/bomberos_2.jpg)
 
 
 
@@ -110,7 +201,30 @@ Walter, Luciana, Gladys, Patricio, Ale, ...
 
 - la "pata" científica de la red
 - prácticas en el territorio
+  - sociocomunitarias, profesionales, TP, tesis ...
+  - computación, telecomunicaciones, energía solar, agronomía, meteorología, filosofía ...
 - Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente
+
+
+
+#
+# Radioaficionados
+
+![](img/lu1hcw.jpg)
+
+
+
+# 
+
+![](img/repe_VHF.jpeg)
+
+
+
+# 
+
+RAVRAe
+
+![](img/RAVRAe.jpeg)
 
 
 
@@ -130,3 +244,6 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - Univ. Politécnica de Valencia (Pietro)
 - HOT Hub LAC
 
+
+
+# ¡Muchas Gracias!
