@@ -12,7 +12,7 @@
 
 # Las Lagunitas Red Comunitaria y Científica de Internet Rural
 
-Visión holística
+**Visión holística**
 
 
 
@@ -27,9 +27,9 @@ Visión holística
 
 # Ruralidad
 
-- Campo Las Guindas UNRC
+- Campo Las Guindas (UNRC)
 - Paraje Las Lagunitas
-- La región: Cerro Colorado, Lutti 
+- La región: Cerro Colorado, Lutti, ...
 
 https://t.ly/0qFQg
 
@@ -159,7 +159,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # ACTUA
 
-- Titular de la licencia ["Valor Agregado Red Comunitaria" VARC](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
+- Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
 - Trabajo territorial
 - Coordinación del proyecto y gestión de recursos
 
@@ -244,6 +244,7 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - Instituto Balseiro (Laila)
 - Univ. Politécnica de Valencia (Pietro)
 - HOT Hub LAC
+- ...
 
 
 
