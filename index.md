@@ -209,7 +209,6 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
 # Radioaficionados
 
 ![](img/lu1hcw.jpg)
@@ -224,7 +223,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # 
 
-RAVRAe
+Red de Alta Velocidad de Radioaficionados Argentinos para emergencias (RAVRAe)
 
 ![](img/RAVRAe.jpeg)
 
