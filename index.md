@@ -77,6 +77,7 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 - Guillermo Balboa (FAV)
 - Nano D'eramo (Geología)
+- ...
 
 
 
@@ -298,6 +299,8 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 # 
+
+cuando todo falle ... plan b
 
 ![](img/radio.jpg)
 
