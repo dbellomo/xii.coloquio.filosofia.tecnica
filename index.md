@@ -71,6 +71,15 @@ https://tinyurl.com/3t9su4jv
 
 
 
+# Vínculo con las familias
+
+construido mediante muchos años de trabajos de la Universidad en el territorio
+
+- Guillermo Balboa (FAV)
+- Nano D'eramo (Geología)
+
+
+
 # La Comunidad
 
 ~~del anillo~~ de Las Lagunitas
@@ -91,14 +100,7 @@ https://tinyurl.com/3t9su4jv
 
 
 
-# Vínculo con las flias
-
-- Guillermo Balboa (FAV)
-- Nano D'eramo (Geología)
-
-
-
-# 
+# Aprendiendo de la comunidad
 
 ![](img/IMG_5423.jpeg)
 
