@@ -260,7 +260,7 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - Instituto Balseiro (Laila)
 - Univ. Politécnica de Valencia (Pietro)
 - UBA Ing (Ignacio)
-- HOT Hub LAC
+- HOT Hub LAC (Tim, Juan, Emi)
 - ...
 
 
