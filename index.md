@@ -12,6 +12,8 @@
 
 # Las Lagunitas Red Comunitaria y Científica de Internet Rural
 
+Construcción desde el Territorio
+
 **Visión holística**
 
 
