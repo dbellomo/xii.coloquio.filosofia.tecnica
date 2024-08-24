@@ -73,7 +73,7 @@ https://tinyurl.com/3t9su4jv
 
 # Vínculo con las familias
 
-construido mediante muchos años de trabajos de la Universidad en el territorio
+construido mediante muchos años de trabajo de la Universidad en el territorio
 
 - Guillermo Balboa (FAV)
 - Nano D'eramo (Geología)
