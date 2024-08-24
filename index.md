@@ -249,12 +249,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # UNRC
 
 - la "pata" científica de la red
+- espacio para hacer ciencia en la ruralidad para las flias que la habitan
 - prácticas en el territorio
   - sociocomunitarias, profesionales, TP, tesis ...
   - computación, telecomunicaciones, energía solar, agronomía, meteorología, filosofía ...
 - Instituto de Ciencias de la Tierra, Biodiversidad y Ambiente [(ICBIA)](https://icbia.conicet.gov.ar)
-- Cátedra Libre de Soberanía Tecnológica [(CLiSTec)](https://clistec.libre.org.ar)
-  - en formación ...
+- Cátedra Libre de Soberanía Tecnológica [(CLiSTec)](https://clistec.libre.org.ar) en formación ... 
 
 
 
