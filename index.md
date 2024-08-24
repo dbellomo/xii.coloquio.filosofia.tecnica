@@ -73,6 +73,8 @@ https://t.ly/sbP8R
 
 # La Comunidad
 
+~~del anillo~~ de Las Lagunitas
+
 ![](img/IMG_5400.jpeg)
 
 
@@ -154,7 +156,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # Otras instituciones del territorio
 
-- Escuela rural
+- Escuela rural (AKA LA Institución)
 - Asociación Civil Tierra Unida Activa (ACTUA)
 - Coop Electricidad, internet y tel Alpa Corral 
 - Bomberos Voluntarios
