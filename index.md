@@ -189,9 +189,19 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 #
 
-asambleas
-
 ![](img/ACTUA_asamblea.jpeg)
+
+
+
+#
+
+![](img/ACTUA_asamblea_2.jpeg)
+
+
+
+#
+
+![](img/ACTUA_asamblea_3.jpeg)
 
 
 
