@@ -123,6 +123,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+#
+
+![](img/hogar_5.jpeg)
+
+
+
 # Otras instituciones del territorio
 
 - Escuela rural
