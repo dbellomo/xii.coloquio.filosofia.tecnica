@@ -199,7 +199,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - Titular de la licencia ["Valor Agregado Red Comunitaria" (VARC)](https://altermundi.net/como-solicitar-una-licencia-varc-de-redes-comunitarias/)
 - Trabajo territorial
 - Coordinación del proyecto y gestión de recursos
-- Compromiso e involucramiento nivel infinito
+- Compromiso e involucramiento infinito
 - Se pusieron el proyecto al hombro y lo tomaron como propio 
 
 
