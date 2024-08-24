@@ -67,7 +67,7 @@ https://tinyurl.com/3t9su4jv
 
 ![](img/las_guindas.png)
 
-(-32.5899, -64.7146)
+(-32.59058, -64.71464)
 
 
 
