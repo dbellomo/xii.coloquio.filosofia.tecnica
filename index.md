@@ -255,12 +255,6 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-# 
-
-![](img/bomberos_3.jpg)
-
-
-
 # UNRC
 
 - la "pata" científica de la red
@@ -291,9 +285,21 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+# 
+
+![](img/bomberos_3.jpg)
+
+
+
 # Radioaficionados
 
 ![](img/lu1hcw.jpg)
+
+
+
+# 
+
+![](img/radio.jpg)
 
 
 
