@@ -47,7 +47,7 @@ https://t.ly/sbP8R
 
 
 
-# Espiral
+# Espiral virtuoso
 
 1. Las Guindas
 1. familias del paraje
@@ -58,6 +58,14 @@ https://t.ly/sbP8R
 1. más familias
 1. más instituciones
 1. ...
+
+
+
+# Las Guindas
+
+~~La semilla~~ el carozo del proyecto
+
+![](img/las_guindas.png)
 
 
 
