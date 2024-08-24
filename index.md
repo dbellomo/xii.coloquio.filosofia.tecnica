@@ -213,6 +213,18 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+# 
+
+![](img/pps_1.jpeg)
+
+
+
+# 
+
+![](img/pps_2.jpeg)
+
+
+
 # Radioaficionados
 
 ![](img/lu1hcw.jpg)
