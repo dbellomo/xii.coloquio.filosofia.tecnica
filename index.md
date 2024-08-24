@@ -35,7 +35,7 @@ Construcción Social desde el Territorio
 - Paraje Las Lagunitas
 - La región: Cerro Colorado, Lutti, ...
 
-https://t.ly/0qFQg
+https://tinyurl.com/3v8r932e
 
 
 
@@ -43,7 +43,7 @@ https://t.ly/0qFQg
 
 by **AlterMundi**
 
-https://t.ly/sbP8R
+https://tinyurl.com/3t9su4jv
 
 
 
@@ -156,7 +156,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # Otras instituciones del territorio
 
-- Escuela rural (AKA LA Institución)
+- Escuela rural (AKA "LA" Institución)
 - Asociación Civil Tierra Unida Activa (ACTUA)
 - Coop Electricidad, internet y tel Alpa Corral 
 - Bomberos Voluntarios
@@ -253,6 +253,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+# 
+
+![](img/bomberos_3.jpg)
+
+
+
 # UNRC
 
 - la "pata" científica de la red
@@ -274,6 +280,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # 
 
 ![](img/pps_2.jpeg)
+
+
+
+# 
+
+![](img/flyer_mapeo.jpeg)
 
 
 
