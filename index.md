@@ -22,10 +22,10 @@ Construcción Social desde el Territorio
 
 # Inspiración
 
-- Oso Grosclaude - UNCOMA  
-- Carlos Frank - RETINA  
+- Oso Grosclaude - Univ. Nac. del Comahue  
+- Carlos Frank - RETINA 
 - Nico Echániz - AlterMundi  
-- Ramon Roca - guifi-net
+- Ramon Roca - guifi-net 
 
 
 
