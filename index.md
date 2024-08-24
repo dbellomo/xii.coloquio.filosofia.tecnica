@@ -125,6 +125,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 #
 
+![](img/hogar_6.jpeg)
+
+
+
+#
+
 ![](img/hogar_5.jpeg)
 
 
