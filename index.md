@@ -16,7 +16,7 @@
 
 
 
-# inspiración
+# Inspiración
 
 - Oso Grosclaude - UNCOMA  
 - Carlos Frank - RETINA  
