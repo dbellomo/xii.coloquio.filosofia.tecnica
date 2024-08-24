@@ -1,5 +1,3 @@
-# 
-
 ![](img/flyer.jpeg)
 
 
@@ -60,7 +58,7 @@ https://t.ly/sbP8R
 
 
 
-#
+# 
 
 ![](img/IMG_5408.jpeg)
 
@@ -79,13 +77,13 @@ https://t.ly/sbP8R
 
 
 
-#
+# 
 
 ![](img/IMG_5423.jpeg)
 
 
 
-#
+# 
 
 ![](img/IMG_5424.jpeg)
 
@@ -95,11 +93,11 @@ https://t.ly/sbP8R
 
 Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
 
-(videos)
+(videos) 
 
 
 
-#
+# 
 
 ![](img/hogar_1.jpeg)
 
@@ -111,25 +109,25 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
+# 
 
 ![](img/hogar_3.jpeg)
 
 
 
-#
+# 
 
 ![](img/hogar_4.jpeg)
 
 
 
-#
+# 
 
 ![](img/hogar_6.jpeg)
 
 
 
-#
+# 
 
 ![](img/hogar_5.jpeg)
 
@@ -145,7 +143,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - Coop electricidad de RDLS
 - Coop gestion.ar
 - Radioaficionados
-- Municipalidad
+- Municipalidad 
 
 
 
@@ -155,7 +153,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
+# 
 
 ![](img/taller_esc_rurales_1.jpg)
 
@@ -167,7 +165,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
+# 
 
 ![](img/taller_esc_rurales_3.jpg)
 
@@ -181,25 +179,25 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
+# 
 
 ![](img/ACTUA_asamblea_1.jpeg)
 
 
 
-#
+# 
 
 ![](img/ACTUA_asamblea.jpeg)
 
 
 
-#
+# 
 
 ![](img/ACTUA_asamblea_2.jpeg)
 
 
 
-#
+# 
 
 ![](img/ACTUA_asamblea_3.jpeg)
 
@@ -225,7 +223,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-#
+# 
 
 ![](img/bomberos_2.jpg)
 
@@ -296,3 +294,4 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 
 # ¡Muchas Gracias!
+
