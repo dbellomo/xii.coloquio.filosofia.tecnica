@@ -14,9 +14,9 @@
 
 # Las Lagunitas Red Comunitaria y Científica de Internet Rural
 
-Construcción Social desde el Territorio
+**Construcción Social desde el Territorio**
 
-**Visión holística**
+Visión holística
 
 
 
