@@ -306,8 +306,6 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # 
 
-cuando todo falle ... plan b
-
 ![](img/radio.jpg)
 
 
@@ -320,7 +318,7 @@ cuando todo falle ... plan b
 
 # 
 
-Red de Alta Velocidad de Radioaficionados Argentinos para emergencias (RAVRAe)
+Red de Alta Velocidad de Radioaficionados Argentinos en emergencias (RAVRAe)
 
 ![](img/RAVRAe.jpeg)
 
