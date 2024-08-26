@@ -141,7 +141,7 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 # 
 
-![](img/hogar_4.jpeg)
+![](img/hogar_4.jpeg) 
 
 
 
@@ -253,6 +253,12 @@ Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # 
 
 ![](img/bomberos_2.jpg)
+
+
+
+# 
+
+![](img/bomberos_4.jpg) 
 
 
 
