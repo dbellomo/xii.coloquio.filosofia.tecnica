@@ -86,7 +86,7 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 - Guillermo Balboa (FAV)
 - Nano D'eramo (Geología)
-- Pepe Alonso
+- Pepe Alonso (FAV)
 
 
 
