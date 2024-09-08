@@ -125,7 +125,7 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 # Familias del paraje 
 
-Walter, Fabian, Joaquin, Neolia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
+Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
 
 (videos) 
 
