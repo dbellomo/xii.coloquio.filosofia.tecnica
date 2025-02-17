@@ -350,7 +350,7 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 # Vinculaciones con otras Universidades
 
-- Univ. Nac. de los Comechingones (Ali)
+- Univ. Nac. de San Luis (Ali)
 - UBA antropología (Augusto)
 - Instituto Balseiro (Laila)
 - Univ. Politécnica de Valencia (Pietro)
