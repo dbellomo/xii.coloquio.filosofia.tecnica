@@ -91,6 +91,12 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 
 
+#
+
+![](img/pepe_fabian_luciana.jpg)
+
+
+
 # La Comunidad
 
 ~~del anillo~~ de Las Lagunitas
